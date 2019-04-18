@@ -106,6 +106,6 @@ void Gagnant(jeu *p_terrain);
 char* Chaine_j(int p_indexe);
 
 // 22 Fonction qui vérifie si 'p_test' est bien compris dans les bornes [p_min;p_max].
-int Valide(int p_test, int p_min, int p_max);
+int Valide(int p_test, int p_min, int p_max);  
 
 #endif // !JEU_H 
